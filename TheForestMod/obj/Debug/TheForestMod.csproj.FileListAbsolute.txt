@@ -1,0 +1,6 @@
+D:\steam\steamapps\common\The Forest\Mods\TheForestMod.dll
+D:\steam\steamapps\common\The Forest\Mods\TheForestMod.pdb
+E:\c#\TheForestMod\TheForestMod\obj\Debug\TheForestMod.csproj.AssemblyReference.cache
+E:\c#\TheForestMod\TheForestMod\obj\Debug\TheForestMod.csproj.CoreCompileInputs.cache
+E:\c#\TheForestMod\TheForestMod\obj\Debug\TheForestMod.dll
+E:\c#\TheForestMod\TheForestMod\obj\Debug\TheForestMod.pdb
